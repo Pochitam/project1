@@ -434,3 +434,9 @@ a:hover{
 .w{
 	font-family: 'Inter Regular';
 }
+.name_plus_box{
+	color: #D8D9DD;
+	font-family: 'Inter Regular';
+	margin-bottom: 5%;
+	font-size: 30px;
+}
