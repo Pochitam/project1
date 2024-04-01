@@ -440,3 +440,32 @@ a:hover{
 	margin-bottom: 5%;
 	font-size: 30px;
 }
+.footer{
+	max-width: 100%;
+	background: #343434;
+	opacity: 51%;
+	height: 15%;
+	display: flex;
+	align-items: center;
+	position: relative;
+}
+.contact_name{
+	font-family: 'Inter Light';
+	color: #B1B1B1;
+	margin-left: 10%;
+}
+.contact_name2{
+	font-family: 'Inter Thin';
+}
+.contacti{
+	width: 15%;
+	width: auto;
+	position: absolute;
+	right: 0;
+}
+.contact_img{
+	width: 30%;
+	height: 30%;
+	margin-left: 10%;
+	cursor: pointer;	
+}
