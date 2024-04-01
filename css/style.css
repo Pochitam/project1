@@ -10,6 +10,10 @@
 	font-family: 'Inter Light';
 	src: url('../fonts/Inter-Light.ttf');
 }
+@font-face {
+	font-family: 'Inter Thin';
+	src: url('../fonts/Inter-Thin.ttf');
+}
 a{
 	text-decoration: none;
 	color: #fff;
